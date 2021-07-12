@@ -1,4 +1,4 @@
 Hi.
-Languages known:
-C++
-C
+# Languages known:
+- C++
+- C
