@@ -3,7 +3,7 @@ Hi.
 ## Languages known:
 - C++
 - C
-- A bit of HTML/CSS/Javascript
+- HTML/CSS/Javascript
 ## Some of the cool stuff I made:
 - A chesswallet app
 - A flappybird-like game with Allegro
