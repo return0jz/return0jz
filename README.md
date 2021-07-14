@@ -1,8 +1,15 @@
 # Portfolio:
 [Hi.](https://jzj-personal.herokuapp.com/)
-### Languages I know:
+### Languages known:
 - C/C++
 - Some HTML/CSS/Javascript
+### Technologies used:
+- MacOS and Linux
+- Git
+- OpenGL (+ SDL2 cross-platform layer)
+- Allegro and SFML graphics layers
+- QT GUI
+- Express.js with Node
 ### Some of the cool stuff I made:
 - A chesswallet [app](https://github.com/return0jz/chesswallet)
 - A flappybird-like [game](https://github.com/return0jz/wallbird)
