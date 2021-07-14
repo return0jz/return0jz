@@ -1,4 +1,4 @@
-# Portfolio:
+# About:
 [Hi.](https://jzj-personal.herokuapp.com/)
 ### Languages known:
 - C/C++
