@@ -10,7 +10,7 @@
 - Allegro and SFML graphics layers
 - Qt GUI
 - Express.js with Node
-### Some of the cool stuff I made:
+### Some stuff I made:
 - A functional 2D game [framework](https://github.com/return0jz/framework2d)
 - A chesswallet [app](https://github.com/return0jz/chesswallet)
 - A flappybird-like [game](https://github.com/return0jz/wallbird)
