@@ -6,7 +6,7 @@ Hi.
 - HTML/CSS/Javascript
 ## Some of the cool stuff I made:
 - A chesswallet app
-- A flappybird-like game with Allegro
+- A (flappybird-like)[https://github.com/return0jz/wallbird] game with Allegro
 - An 3D OpenGL demo with MC-based voxels
 - A semi-working CHIP-8 interpreter
 - A webpage dumper made with pure BSD sockets
