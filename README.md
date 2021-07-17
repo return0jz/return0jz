@@ -2,7 +2,7 @@
 [Hi.](https://jzj-personal.herokuapp.com/)
 ### Languages known:
 - C/C++
-- A bit HTML/CSS/Javascript
+- A bit of HTML/CSS/Javascript
 ### Technologies used:
 - MacOS and Linux
 - Git
