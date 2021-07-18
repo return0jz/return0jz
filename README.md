@@ -19,4 +19,4 @@
 - A webpage [dumper](https://github.com/return0jz/baddumper) made with pure BSD sockets
 - A very small Brainf*ck [transpiler](https://github.com/return0jz/brainf-ctranspiler) to C
 ### Game Jam/Hackathon stuff:
-- My first [product](https://github.com/return0jz/xdhack) for a hackathon
+- My first [product](https://github.com/return0jz/xdhack) for a hackathon (xdHacks Toronto)
