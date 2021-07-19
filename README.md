@@ -1,15 +1,5 @@
 # About:
 [Hi.](https://jzj-personal.herokuapp.com/)
-### Languages known:
-- C/C++
-- A bit of HTML/CSS/Javascript
-## Technologies used:
-- MacOS and Linux
-- Git
-- OpenGL (+ SDL2 cross-platform layer)
-- Allegro and SFML graphics layers
-- Qt GUI
-- Express.js with Node
 ## Some personal projects:
 ### Games/Graphics:
 - A functional 2D game [framework](https://github.com/return0jz/framework2d)
