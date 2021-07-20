@@ -6,7 +6,7 @@
 - A chesswallet [app](https://github.com/return0jz/chesswallet)
 - A flappybird-like [game](https://github.com/return0jz/wallbird)
 - A 3D [demo](https://github.com/return0jz/badmc) with MC-based voxels
-### Web:
+### Networking/Web:
 - My first [product](https://github.com/return0jz/xdhack) for a hackathon (xdHacks mini Toronto 3rd Place)
 ### Miscellaneous:
 - A semi-working CHIP-8 [interpreter](https://github.com/return0jz/buggedchip8)
