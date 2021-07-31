@@ -8,6 +8,8 @@
 - A 3D [demo](https://github.com/return0jz/badmc) with MC-based voxels
 ### Networking/Web:
 - My first [product](https://github.com/return0jz/xdhack) for a hackathon (xdHacks mini Toronto 3rd Place)
+### AI:
+- A tictactoe "[engine](https://github.com/return0jz/kektictactoe)" 
 ### Miscellaneous:
 - A semi-working CHIP-8 [interpreter](https://github.com/return0jz/buggedchip8)
 - A webpage [dumper](https://github.com/return0jz/baddumper) made with pure BSD sockets
