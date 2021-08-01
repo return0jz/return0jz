@@ -3,7 +3,6 @@
 ## Some personal projects:
 ### Games/Graphics:
 - A functional 2D game [framework](https://github.com/return0jz/framework2d)
-- A chesswallet [app](https://github.com/return0jz/chesswallet)
 - A flappybird-like [game](https://github.com/return0jz/wallbird)
 - A 3D [demo](https://github.com/return0jz/badmc) with MC-based voxels
 ### Networking/Web:
@@ -12,5 +11,6 @@
 ### AI:
 - A tictactoe "[engine](https://github.com/return0jz/kektictactoe)" 
 ### Miscellaneous:
+- A chesswallet [app](https://github.com/return0jz/chesswallet)
 - A semi-working CHIP-8 [interpreter](https://github.com/return0jz/buggedchip8)
 - A very small Brainf*ck [transpiler](https://github.com/return0jz/brainf-ctranspiler) to C
