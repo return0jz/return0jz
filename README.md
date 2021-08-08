@@ -6,7 +6,8 @@
 - <sub><sup> C++ </sup></sub> A flappybird-like [game](https://github.com/return0jz/wallbird)
 - <sub><sup> C++ </sup></sub> A 3D [demo](https://github.com/return0jz/badmc) with MC-based voxels 
 ### Networking/Web:
-- <sub><sup> C </sup></sub> A webpage [dumper](https://github.com/return0jz/baddumper) made with pure BSD sockets
+- <sub><sup> C++ </sup></sub> A toy webserver framework [dumper](https://github.com/return0jz/serverstuff)
+- <sub><sup> C </sup></sub> A CLI webpage [dumper](https://github.com/return0jz/baddumper)
 - <sub><sup> HTML/CSS/Javascript </sup></sub> My first web [product](https://github.com/return0jz/xdhack) for a hackathon (xdHacks mini Toronto 3rd Place Award)
 ### AI:
 - <sub><sup> C++ </sub></sup> A tictactoe "[engine](https://github.com/return0jz/kektictactoe)"
