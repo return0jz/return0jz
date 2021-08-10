@@ -1,5 +1,5 @@
 # About:
-[Hi.](https://jzj-personal.herokuapp.com/)
+[Hi.]()
 ## Some personal projects:
 - <sub><sup> C++ </sup></sub> A functional 2D game [framework](https://github.com/return0jz/framework2d)
 - <sub><sup> C++ </sup></sub> A flappybird-like [game](https://github.com/return0jz/wallbird)
